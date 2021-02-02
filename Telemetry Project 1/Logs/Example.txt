@@ -1,0 +1,240 @@
+2021-02-02 16:19:45.227 -07:00 [INF] starting up from serilog
+2021-02-02 16:19:46.168 -07:00 [INF] User profile is available. Using 'C:\Users\krydg\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-02-02 16:19:46.563 -07:00 [INF] Now listening on: https://localhost:5001
+2021-02-02 16:19:46.565 -07:00 [INF] Now listening on: http://localhost:5000
+2021-02-02 16:19:46.568 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-02 16:19:46.569 -07:00 [INF] Hosting environment: Development
+2021-02-02 16:19:46.572 -07:00 [INF] Content root path: C:\Users\krydg\source\repos\Telemetry Project 1\Telemetry Project 1
+2021-02-02 16:19:47.638 -07:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2021-02-02 16:19:47.685 -07:00 [INF] Executing endpoint '/Index'
+2021-02-02 16:19:47.741 -07:00 [INF] Route matched with {page = "/Index"}. Executing page /Index
+2021-02-02 16:19:47.753 -07:00 [INF] Executing handler method Telemetry_Project_1.Pages.IndexModel.OnGet - ModelState is "Valid"
+2021-02-02 16:19:47.759 -07:00 [WRN] loaded into the page
+2021-02-02 16:19:47.761 -07:00 [INF] Executed handler method OnGet, returned result .
+2021-02-02 16:19:47.766 -07:00 [INF] Executing an implicit handler method - ModelState is "Valid"
+2021-02-02 16:19:47.767 -07:00 [INF] Executed an implicit handler method, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2021-02-02 16:19:47.864 -07:00 [INF] Executed page /Index in 115.6082ms
+2021-02-02 16:19:47.868 -07:00 [INF] Executed endpoint '/Index'
+2021-02-02 16:19:47.873 -07:00 [INF] Request finished in 239.7592ms 200 text/html; charset=utf-8
+2021-02-02 16:22:49.846 -07:00 [INF] starting up from serilog
+2021-02-02 16:22:50.561 -07:00 [INF] User profile is available. Using 'C:\Users\krydg\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-02-02 16:22:50.884 -07:00 [INF] Now listening on: https://localhost:5001
+2021-02-02 16:22:50.885 -07:00 [INF] Now listening on: http://localhost:5000
+2021-02-02 16:22:50.887 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-02 16:22:50.888 -07:00 [INF] Hosting environment: Development
+2021-02-02 16:22:50.889 -07:00 [INF] Content root path: C:\Users\krydg\source\repos\Telemetry Project 1\Telemetry Project 1
+2021-02-02 16:22:51.493 -07:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2021-02-02 16:22:51.542 -07:00 [INF] Executing endpoint '/Index'
+2021-02-02 16:22:51.643 -07:00 [INF] Route matched with {page = "/Index"}. Executing page /Index
+2021-02-02 16:22:51.655 -07:00 [INF] Executing handler method Telemetry_Project_1.Pages.IndexModel.OnGet - ModelState is "Valid"
+2021-02-02 16:22:51.660 -07:00 [WRN] loaded into the page
+2021-02-02 16:22:51.662 -07:00 [INF] Executed handler method OnGet, returned result .
+2021-02-02 16:22:51.666 -07:00 [INF] Executing an implicit handler method - ModelState is "Valid"
+2021-02-02 16:22:51.667 -07:00 [INF] Executed an implicit handler method, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2021-02-02 16:22:51.759 -07:00 [INF] Executed page /Index in 110.5719ms
+2021-02-02 16:22:51.762 -07:00 [INF] Executed endpoint '/Index'
+2021-02-02 16:22:51.766 -07:00 [INF] Request finished in 276.5713ms 200 text/html; charset=utf-8
+2021-02-02 16:23:22.804 -07:00 [INF] starting up from serilog
+2021-02-02 16:23:23.520 -07:00 [INF] User profile is available. Using 'C:\Users\krydg\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-02-02 16:23:23.901 -07:00 [INF] Now listening on: https://localhost:5001
+2021-02-02 16:23:23.902 -07:00 [INF] Now listening on: http://localhost:5000
+2021-02-02 16:23:23.904 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-02 16:23:23.906 -07:00 [INF] Hosting environment: Development
+2021-02-02 16:23:23.907 -07:00 [INF] Content root path: C:\Users\krydg\source\repos\Telemetry Project 1\Telemetry Project 1
+2021-02-02 16:23:24.423 -07:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2021-02-02 16:23:24.463 -07:00 [INF] Executing endpoint '/Index'
+2021-02-02 16:23:24.518 -07:00 [INF] Route matched with {page = "/Index"}. Executing page /Index
+2021-02-02 16:23:24.528 -07:00 [INF] Executing handler method Telemetry_Project_1.Pages.IndexModel.OnGet - ModelState is "Valid"
+2021-02-02 16:23:24.533 -07:00 [WRN] loaded into the page
+2021-02-02 16:23:24.534 -07:00 [INF] Executed handler method OnGet, returned result .
+2021-02-02 16:23:24.538 -07:00 [INF] Executing an implicit handler method - ModelState is "Valid"
+2021-02-02 16:23:24.539 -07:00 [INF] Executed an implicit handler method, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2021-02-02 16:23:24.616 -07:00 [INF] Executed page /Index in 93.0903ms
+2021-02-02 16:23:24.619 -07:00 [INF] Executed endpoint '/Index'
+2021-02-02 16:23:24.624 -07:00 [INF] Request finished in 202.7034ms 200 text/html; charset=utf-8
+2021-02-02 16:25:27.413 -07:00 [INF] starting up from serilog
+2021-02-02 16:25:28.218 -07:00 [INF] User profile is available. Using 'C:\Users\krydg\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-02-02 16:25:28.596 -07:00 [INF] Now listening on: https://localhost:5001
+2021-02-02 16:25:28.598 -07:00 [INF] Now listening on: http://localhost:5000
+2021-02-02 16:25:28.600 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-02 16:25:28.602 -07:00 [INF] Hosting environment: Development
+2021-02-02 16:25:28.605 -07:00 [INF] Content root path: C:\Users\krydg\source\repos\Telemetry Project 1\Telemetry Project 1
+2021-02-02 16:25:29.579 -07:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2021-02-02 16:25:29.619 -07:00 [INF] Executing endpoint '/Index'
+2021-02-02 16:25:29.675 -07:00 [INF] Route matched with {page = "/Index"}. Executing page /Index
+2021-02-02 16:25:29.688 -07:00 [INF] Executing handler method Telemetry_Project_1.Pages.IndexModel.OnGet - ModelState is "Valid"
+2021-02-02 16:25:29.692 -07:00 [WRN] loaded into the page
+2021-02-02 16:25:29.695 -07:00 [INF] Executed handler method OnGet, returned result .
+2021-02-02 16:25:29.700 -07:00 [INF] Executing an implicit handler method - ModelState is "Valid"
+2021-02-02 16:25:29.702 -07:00 [INF] Executed an implicit handler method, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2021-02-02 16:25:29.782 -07:00 [INF] Executed page /Index in 100.4689ms
+2021-02-02 16:25:29.786 -07:00 [INF] Executed endpoint '/Index'
+2021-02-02 16:25:29.791 -07:00 [INF] Request finished in 214.6639ms 200 text/html; charset=utf-8
+2021-02-02 16:26:06.392 -07:00 [INF] starting up from serilog
+2021-02-02 16:26:07.098 -07:00 [INF] User profile is available. Using 'C:\Users\krydg\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-02-02 16:26:07.438 -07:00 [INF] Now listening on: https://localhost:5001
+2021-02-02 16:26:07.448 -07:00 [INF] Now listening on: http://localhost:5000
+2021-02-02 16:26:07.450 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-02 16:26:07.452 -07:00 [INF] Hosting environment: Development
+2021-02-02 16:26:07.454 -07:00 [INF] Content root path: C:\Users\krydg\source\repos\Telemetry Project 1\Telemetry Project 1
+2021-02-02 16:26:08.035 -07:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2021-02-02 16:26:08.073 -07:00 [INF] Executing endpoint '/Index'
+2021-02-02 16:26:08.137 -07:00 [INF] Route matched with {page = "/Index"}. Executing page /Index
+2021-02-02 16:26:08.148 -07:00 [INF] Executing handler method Telemetry_Project_1.Pages.IndexModel.OnGet - ModelState is "Valid"
+2021-02-02 16:26:08.154 -07:00 [WRN] loaded into the page
+2021-02-02 16:26:08.156 -07:00 [INF] Executed handler method OnGet, returned result .
+2021-02-02 16:26:08.160 -07:00 [INF] Executing an implicit handler method - ModelState is "Valid"
+2021-02-02 16:26:08.161 -07:00 [INF] Executed an implicit handler method, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2021-02-02 16:26:08.241 -07:00 [INF] Executed page /Index in 98.197ms
+2021-02-02 16:26:08.244 -07:00 [INF] Executed endpoint '/Index'
+2021-02-02 16:26:08.248 -07:00 [INF] Request finished in 216.1397ms 200 text/html; charset=utf-8
+2021-02-02 16:30:59.305 -07:00 [INF] starting up from serilog
+2021-02-02 16:31:00.086 -07:00 [INF] User profile is available. Using 'C:\Users\krydg\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-02-02 16:31:00.464 -07:00 [INF] Now listening on: https://localhost:5001
+2021-02-02 16:31:00.483 -07:00 [INF] Now listening on: http://localhost:5000
+2021-02-02 16:31:00.489 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-02 16:31:00.490 -07:00 [INF] Hosting environment: Development
+2021-02-02 16:31:00.493 -07:00 [INF] Content root path: C:\Users\krydg\source\repos\Telemetry Project 1\Telemetry Project 1
+2021-02-02 16:31:01.545 -07:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2021-02-02 16:31:01.587 -07:00 [INF] Executing endpoint '/Index'
+2021-02-02 16:31:01.640 -07:00 [INF] Route matched with {page = "/Index"}. Executing page /Index
+2021-02-02 16:31:01.653 -07:00 [INF] Executing handler method Telemetry_Project_1.Pages.IndexModel.OnGet - ModelState is "Valid"
+2021-02-02 16:31:01.658 -07:00 [WRN] loaded into the page
+2021-02-02 16:31:01.659 -07:00 [INF] Executed handler method OnGet, returned result .
+2021-02-02 16:31:01.664 -07:00 [INF] Executing an implicit handler method - ModelState is "Valid"
+2021-02-02 16:31:01.666 -07:00 [INF] Executed an implicit handler method, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2021-02-02 16:31:01.748 -07:00 [INF] Executed page /Index in 101.3378ms
+2021-02-02 16:31:01.752 -07:00 [INF] Executed endpoint '/Index'
+2021-02-02 16:31:01.756 -07:00 [INF] Request finished in 214.7664ms 200 text/html; charset=utf-8
+2021-02-02 16:33:06.044 -07:00 [INF] starting up from serilog
+2021-02-02 16:33:06.837 -07:00 [INF] User profile is available. Using 'C:\Users\krydg\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-02-02 16:33:07.196 -07:00 [INF] Now listening on: https://localhost:5001
+2021-02-02 16:33:07.198 -07:00 [INF] Now listening on: http://localhost:5000
+2021-02-02 16:33:07.199 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-02 16:33:07.200 -07:00 [INF] Hosting environment: Development
+2021-02-02 16:33:07.201 -07:00 [INF] Content root path: C:\Users\krydg\source\repos\Telemetry Project 1\Telemetry Project 1
+2021-02-02 16:33:08.147 -07:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2021-02-02 16:33:08.187 -07:00 [INF] Executing endpoint '/Index'
+2021-02-02 16:33:08.248 -07:00 [INF] Route matched with {page = "/Index"}. Executing page /Index
+2021-02-02 16:33:08.260 -07:00 [INF] Executing handler method Telemetry_Project_1.Pages.IndexModel.OnGet - ModelState is "Valid"
+2021-02-02 16:33:08.264 -07:00 [WRN] loaded into the page
+2021-02-02 16:33:08.265 -07:00 [INF] Executed handler method OnGet, returned result .
+2021-02-02 16:33:08.270 -07:00 [INF] Executing an implicit handler method - ModelState is "Valid"
+2021-02-02 16:33:08.271 -07:00 [INF] Executed an implicit handler method, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2021-02-02 16:33:08.346 -07:00 [INF] Executed page /Index in 91.9765ms
+2021-02-02 16:33:08.350 -07:00 [INF] Executed endpoint '/Index'
+2021-02-02 16:33:08.355 -07:00 [INF] Request finished in 210.5182ms 200 text/html; charset=utf-8
+2021-02-02 16:33:31.783 -07:00 [INF] starting up from serilog
+2021-02-02 16:33:32.514 -07:00 [INF] User profile is available. Using 'C:\Users\krydg\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-02-02 16:33:32.850 -07:00 [INF] Now listening on: https://localhost:5001
+2021-02-02 16:33:32.860 -07:00 [INF] Now listening on: http://localhost:5000
+2021-02-02 16:33:32.861 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-02 16:33:32.862 -07:00 [INF] Hosting environment: Development
+2021-02-02 16:33:32.864 -07:00 [INF] Content root path: C:\Users\krydg\source\repos\Telemetry Project 1\Telemetry Project 1
+2021-02-02 16:33:33.371 -07:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2021-02-02 16:33:33.410 -07:00 [INF] Executing endpoint '/Index'
+2021-02-02 16:33:33.462 -07:00 [INF] Route matched with {page = "/Index"}. Executing page /Index
+2021-02-02 16:33:33.475 -07:00 [INF] Executing handler method Telemetry_Project_1.Pages.IndexModel.OnGet - ModelState is "Valid"
+2021-02-02 16:33:33.480 -07:00 [WRN] loaded into the page
+2021-02-02 16:33:33.481 -07:00 [INF] Executed handler method OnGet, returned result .
+2021-02-02 16:33:33.486 -07:00 [INF] Executing an implicit handler method - ModelState is "Valid"
+2021-02-02 16:33:33.488 -07:00 [INF] Executed an implicit handler method, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2021-02-02 16:33:33.573 -07:00 [INF] Executed page /Index in 105.1992ms
+2021-02-02 16:33:33.576 -07:00 [INF] Executed endpoint '/Index'
+2021-02-02 16:33:33.581 -07:00 [INF] Request finished in 212.7949ms 200 text/html; charset=utf-8
+2021-02-02 16:35:31.844 -07:00 [INF] starting up from serilog
+2021-02-02 16:35:32.574 -07:00 [INF] User profile is available. Using 'C:\Users\krydg\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-02-02 16:35:32.892 -07:00 [INF] Now listening on: https://localhost:5001
+2021-02-02 16:35:32.894 -07:00 [INF] Now listening on: http://localhost:5000
+2021-02-02 16:35:32.895 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-02 16:35:32.896 -07:00 [INF] Hosting environment: Development
+2021-02-02 16:35:32.897 -07:00 [INF] Content root path: C:\Users\krydg\source\repos\Telemetry Project 1\Telemetry Project 1
+2021-02-02 16:35:33.495 -07:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2021-02-02 16:35:33.555 -07:00 [INF] Executing endpoint '/Index'
+2021-02-02 16:35:33.647 -07:00 [INF] Route matched with {page = "/Index"}. Executing page /Index
+2021-02-02 16:35:33.664 -07:00 [INF] Executing handler method Telemetry_Project_1.Pages.IndexModel.OnGet - ModelState is "Valid"
+2021-02-02 16:35:33.670 -07:00 [WRN] loaded into the page
+2021-02-02 16:35:33.672 -07:00 [INF] Executed handler method OnGet, returned result .
+2021-02-02 16:35:33.676 -07:00 [INF] Executing an implicit handler method - ModelState is "Valid"
+2021-02-02 16:35:33.677 -07:00 [INF] Executed an implicit handler method, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2021-02-02 16:35:33.772 -07:00 [INF] Executed page /Index in 118.5446ms
+2021-02-02 16:35:33.777 -07:00 [INF] Executed endpoint '/Index'
+2021-02-02 16:35:33.782 -07:00 [INF] Request finished in 291.9593ms 200 text/html; charset=utf-8
+2021-02-02 16:35:56.082 -07:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2021-02-02 16:35:56.084 -07:00 [INF] Executing endpoint '/Index'
+2021-02-02 16:35:56.085 -07:00 [INF] Route matched with {page = "/Index"}. Executing page /Index
+2021-02-02 16:35:56.087 -07:00 [INF] Executing handler method Telemetry_Project_1.Pages.IndexModel.OnGet - ModelState is "Valid"
+2021-02-02 16:35:56.089 -07:00 [WRN] loaded into the page
+2021-02-02 16:35:56.090 -07:00 [INF] Executed handler method OnGet, returned result .
+2021-02-02 16:35:56.091 -07:00 [INF] Executing an implicit handler method - ModelState is "Valid"
+2021-02-02 16:35:56.093 -07:00 [INF] Executed an implicit handler method, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2021-02-02 16:35:56.098 -07:00 [INF] Executed page /Index in 11.0783ms
+2021-02-02 16:35:56.106 -07:00 [INF] Executed endpoint '/Index'
+2021-02-02 16:35:56.109 -07:00 [INF] Request finished in 26.9932ms 200 text/html; charset=utf-8
+2021-02-02 16:44:19.175 -07:00 [INF] starting up from serilog
+2021-02-02 16:44:19.904 -07:00 [INF] User profile is available. Using 'C:\Users\krydg\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-02-02 16:44:20.235 -07:00 [INF] Now listening on: https://localhost:5001
+2021-02-02 16:44:20.236 -07:00 [INF] Now listening on: http://localhost:5000
+2021-02-02 16:44:20.238 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-02 16:44:20.239 -07:00 [INF] Hosting environment: Development
+2021-02-02 16:44:20.240 -07:00 [INF] Content root path: C:\Users\krydg\source\repos\Telemetry Project 1\Telemetry Project 1
+2021-02-02 16:44:20.866 -07:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2021-02-02 16:44:20.927 -07:00 [INF] Executing endpoint '/Index'
+2021-02-02 16:44:20.985 -07:00 [INF] Route matched with {page = "/Index"}. Executing page /Index
+2021-02-02 16:44:20.999 -07:00 [INF] Executing handler method Telemetry_Project_1.Pages.IndexModel.OnGet - ModelState is "Valid"
+2021-02-02 16:44:21.006 -07:00 [WRN] loaded into the page
+2021-02-02 16:44:21.008 -07:00 [INF] Executed handler method OnGet, returned result .
+2021-02-02 16:44:21.014 -07:00 [INF] Executing an implicit handler method - ModelState is "Valid"
+2021-02-02 16:44:21.016 -07:00 [INF] Executed an implicit handler method, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2021-02-02 16:44:21.105 -07:00 [INF] Executed page /Index in 113.8707ms
+2021-02-02 16:44:21.109 -07:00 [INF] Executed endpoint '/Index'
+2021-02-02 16:44:21.114 -07:00 [INF] Request finished in 251.522ms 200 text/html; charset=utf-8
+2021-02-02 16:47:46.372 -07:00 [INF] starting up from serilog
+2021-02-02 16:47:47.070 -07:00 [INF] User profile is available. Using 'C:\Users\krydg\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-02-02 16:47:47.416 -07:00 [INF] Now listening on: https://localhost:5001
+2021-02-02 16:47:47.419 -07:00 [INF] Now listening on: http://localhost:5000
+2021-02-02 16:47:47.421 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-02 16:47:47.422 -07:00 [INF] Hosting environment: Development
+2021-02-02 16:47:47.423 -07:00 [INF] Content root path: C:\Users\krydg\source\repos\Telemetry Project 1\Telemetry Project 1
+2021-02-02 16:47:48.028 -07:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2021-02-02 16:47:48.103 -07:00 [INF] Executing endpoint '/Index'
+2021-02-02 16:47:48.155 -07:00 [INF] Route matched with {page = "/Index"}. Executing page /Index
+2021-02-02 16:47:48.169 -07:00 [INF] Executing handler method Telemetry_Project_1.Pages.IndexModel.OnGet - ModelState is "Valid"
+2021-02-02 16:47:48.174 -07:00 [WRN] loaded into the page
+2021-02-02 16:47:48.176 -07:00 [INF] Executed handler method OnGet, returned result .
+2021-02-02 16:47:48.181 -07:00 [INF] Executing an implicit handler method - ModelState is "Valid"
+2021-02-02 16:47:48.183 -07:00 [INF] Executed an implicit handler method, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2021-02-02 16:47:48.267 -07:00 [INF] Executed page /Index in 104.7585ms
+2021-02-02 16:47:48.271 -07:00 [INF] Executed endpoint '/Index'
+2021-02-02 16:47:48.277 -07:00 [INF] Request finished in 253.8812ms 200 text/html; charset=utf-8
+2021-02-02 16:48:11.605 -07:00 [INF] Application is shutting down...
+2021-02-02 16:49:29.465 -07:00 [INF] starting up from serilog
+2021-02-02 16:49:30.197 -07:00 [INF] User profile is available. Using 'C:\Users\krydg\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-02-02 16:49:30.544 -07:00 [INF] Now listening on: https://localhost:5001
+2021-02-02 16:49:30.546 -07:00 [INF] Now listening on: http://localhost:5000
+2021-02-02 16:49:30.547 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-02 16:49:30.549 -07:00 [INF] Hosting environment: Development
+2021-02-02 16:49:30.551 -07:00 [INF] Content root path: C:\Users\krydg\source\repos\Telemetry Project 1\Telemetry Project 1
+2021-02-02 16:49:31.128 -07:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2021-02-02 16:49:31.179 -07:00 [INF] Executing endpoint '/Index'
+2021-02-02 16:49:31.242 -07:00 [INF] Route matched with {page = "/Index"}. Executing page /Index
+2021-02-02 16:49:31.253 -07:00 [INF] Executing handler method Telemetry_Project_1.Pages.IndexModel.OnGet - ModelState is "Valid"
+2021-02-02 16:49:31.260 -07:00 [WRN] loaded into the page
+2021-02-02 16:49:31.262 -07:00 [INF] Executed handler method OnGet, returned result .
+2021-02-02 16:49:31.267 -07:00 [INF] Executing an implicit handler method - ModelState is "Valid"
+2021-02-02 16:49:31.268 -07:00 [INF] Executed an implicit handler method, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2021-02-02 16:49:31.356 -07:00 [INF] Executed page /Index in 108.1764ms
+2021-02-02 16:49:31.360 -07:00 [INF] Executed endpoint '/Index'
+2021-02-02 16:49:31.365 -07:00 [INF] Request finished in 239.8792ms 200 text/html; charset=utf-8
+2021-02-02 16:49:33.533 -07:00 [INF] Request starting HTTP/2 POST https://localhost:5001/ application/x-www-form-urlencoded 182
+2021-02-02 16:49:33.537 -07:00 [INF] Executing endpoint '/Index'
+2021-02-02 16:49:33.538 -07:00 [INF] Route matched with {page = "/Index"}. Executing page /Index
+2021-02-02 16:49:33.546 -07:00 [INF] Executing handler method Telemetry_Project_1.Pages.IndexModel.OnPost - ModelState is "Valid"
+2021-02-02 16:49:33.549 -07:00 [WRN] clicked the button
+2021-02-02 16:49:33.550 -07:00 [INF] Executed handler method OnPost, returned result .
+2021-02-02 16:49:33.552 -07:00 [INF] Executing an implicit handler method - ModelState is "Valid"
+2021-02-02 16:49:33.553 -07:00 [INF] Executed an implicit handler method, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2021-02-02 16:49:33.559 -07:00 [INF] Executed page /Index in 19.5876ms
+2021-02-02 16:49:33.566 -07:00 [INF] Executed endpoint '/Index'
+2021-02-02 16:49:33.568 -07:00 [INF] Request finished in 34.8901ms 200 text/html; charset=utf-8
+2021-02-02 16:49:39.606 -07:00 [INF] Application is shutting down...

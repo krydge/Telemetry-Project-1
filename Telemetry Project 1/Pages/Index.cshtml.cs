@@ -19,7 +19,12 @@ namespace Telemetry_Project_1.Pages
 
         public void OnGet()
         {
+            _logger.LogWarning("loaded into the page");
+        }
 
+        public async Task OnPost()
+        {
+            _logger.LogWarning("clicked the button");
         }
     }
 }
